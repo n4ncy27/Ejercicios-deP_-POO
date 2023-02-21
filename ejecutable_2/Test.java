@@ -1,0 +1,2 @@
+//2. Ingresar el tiempo de duración de una llamada telefónica y determinar la cantidad a pagar de acuerdo con lo siguiente.
+//- toda llamada que dure 3 minutos o menos tiene un costo de 300 pesos cada minuto adicional cuesta 500.
