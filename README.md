@@ -1,5 +1,5 @@
-# Ejercicios-de_-POO
-Se realizar 3 ejercicios donde se pone en práctica la parte utilizar Java como lenguaje de programación.
+
+
 # Ejercicios-de-POO
 se realizar 3 ejercicios donde se pone en práctica la parte  utilizar java como lenguaje de programación. 
 
